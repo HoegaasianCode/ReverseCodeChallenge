@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ReverseCoding1
 {
@@ -11,8 +11,8 @@ namespace ReverseCoding1
         {
             CodeReverser codeReverser = new("A4B5C2"); // "A4B5C2" ➞ "AAAABBBBBCC"
             codeReverser.CharToIntArray();
-            codeReverser.CharToNewString();
-            Console.WriteLine(codeReverser.MultiplyCharsByInts());
+            codeReverser.CharsToString();
+            Console.WriteLine(codeReverser.MultiplyChars());
         }
     }
 }
