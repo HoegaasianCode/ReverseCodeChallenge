@@ -1,0 +1,16 @@
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ReverseCoding1.exe
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ReverseCoding1.deps.json
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ReverseCoding1.runtimeconfig.json
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ReverseCoding1.runtimeconfig.dev.json
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ReverseCoding1.dll
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ref\ReverseCoding1.dll
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\bin\Debug\net5.0\ReverseCoding1.pdb
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.csprojAssemblyReference.cache
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.AssemblyInfoInputs.cache
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.AssemblyInfo.cs
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.csproj.CoreCompileInputs.cache
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.dll
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ref\ReverseCoding1.dll
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.pdb
+C:\Users\had00bin\source\repos\ReverseCoding1\ReverseCoding1\obj\Debug\net5.0\ReverseCoding1.genruntimeconfig.cache
