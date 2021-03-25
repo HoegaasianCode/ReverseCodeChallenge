@@ -1,8 +1,5 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ReverseCoding1
 {
@@ -10,7 +7,7 @@ namespace ReverseCoding1
     {
         private readonly string _string;
         private int[] Ints { get; set; }
-        private string Chars { get; set; }
+        private string CharSequence { get; set; }
 
         public CodeReverser(string @string)
         {
@@ -20,7 +17,7 @@ namespace ReverseCoding1
         public void CharToIntArray()
         {
             List<int> intList = new();
-            for (int i = 1; i < _string.Length; i+=2)
+            for (int i = 1; i < _string.Length; i += 2)
             {
                 char c = _string[i];
                 intList.Add((int)Char.GetNumericValue(c));
@@ -28,27 +25,30 @@ namespace ReverseCoding1
             Ints = intList.ToArray();
         }
 
-        public void CharToNewString() 
+        public void CharsToString()
         {
-            StringBuilder sb = new();
-            for(int i = 0; i < _string.Length; i+=2)
+            string s = "";
+            for (int i = 0; i < _string.Length; i += 2)
             {
                 char c = _string[i];
-                sb.Append(c);
+                s += c;
             }
-            Chars = sb.ToString();
+            CharSequence = s;
         }
 
-        public string MultiplyCharsByInts()
+        public string MultiplyChars()
         {
-            StringBuilder sb = new();
-            for(int i = 0; i < Ints.Length; i++)
+            string s = "";
+            for (int i = 0; i < Ints.Length; i++)
             {
-                int integer = Ints[i];
-                char c = Chars[i];
-                sb.Append(c, integer);
+                int number = Ints[i];
+                char c = CharSequence[i];
+                for(int j = 0; j < number; j++)
+                {
+                    s += c;
+                }
             }
-            return sb.ToString();
+            return s;
         }
     }
 }
